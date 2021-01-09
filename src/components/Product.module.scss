@@ -1,0 +1,10 @@
+.productCard {
+  display: flex;
+  flex-direction: column;
+  width: 25rem;
+
+  img {
+    width: 25rem;
+    height: 30rem;
+  }
+}
